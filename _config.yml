@@ -17,42 +17,149 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/myTravelJournal" # the subpath of your site, e.g. /blog
-url: "https://gamegirl008.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-
-# Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-plugins:
-  - jekyll-feed
-  - jekyll-include-cache
 minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+email                    : your-email@example.com
+
+
+twitter_username: jekyllrb
+github_username:  jekyll
+
+
+# Site settings
+locale                   : "zh-CN"
+title                    : 游戏女孩的博客
+title_separator          : "-"
+subtitle                 : "分享生活、技术和小感想"
+name                     : &name "gamegirl008" # &name is a YAML anchor which can be *referenced later
+description              : &description "一个热爱生活的人，爱躺沙发，爱看电视，爱唱歌，爱旅游，爱下厨，爱一切值得爱的！"
+baseurl                  : "/myTravelJournal" # the subpath of your site, e.g. /blog
+url                      : "https://gamegirl008.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+words_per_minute         : 200
+enable_copy_code_button  : true
+
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+
+
+
+# Site Author
+author:
+  name             : *name # *name is a YAML reference pointing to the &anchor earlier
+  avatar           : "/assets/images/gamegirl008.jpg"
+  bio              : "一个热爱生活的人，爱躺沙发，爱看电视，爱唱歌，爱旅游，爱下厨，爱一切值得爱的！"
+  location         : "Shanghai, China"
+  links:
+    - label: "gamegirl008@outlook.com"
+      icon: "fa-solid fa-envelope"
+      url: "gamegirl008@outlook.com"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/gamegirl008"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      #sidebar:
+      #  nav: "docs"
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      #sidebar:
+        #nav: "docs"
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      toc_sticky: true
+      sidebar:
+        nav: "docs"
+  # _recipes
+  - scope:
+      path: ""
+      type: recipes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _pets
+  - scope:
+      path: ""
+      type: pets
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - _docs
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
