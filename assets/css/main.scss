@@ -14,7 +14,12 @@ search: false
     dl {
       font-size: 0.75em;
       line-height: 2; 
+      text-align: justify;     
     }
+  }
+
+.page__content h2 { /* 针对二级标题 */
+    font-size: 0.8em; /* 根据需要设置大小 */
   }
 
 
@@ -22,7 +27,11 @@ search: false
     p,
     li,
     dl {
-      font-size: 0.8em;
+      /*font-size: 0.8em;*/
       line-height: 1.85; 
     }
+  }
+
+.toc {
+    font-size: 1.25em; /* 根据需要设置合适的大小 */
   }
