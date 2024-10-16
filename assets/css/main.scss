@@ -22,6 +22,10 @@ search: false
     font-size: 0.8em; /* 根据需要设置大小 */
   }
 
+.page__content h3 { /* 针对二级标题 */
+    font-size: 0.75em; /* 根据需要设置大小 */
+  }
+
 
 .sidebar {
     p,
@@ -32,6 +36,18 @@ search: false
     }
   }
 
-.toc {
-    font-size: 1.25em; /* 根据需要设置合适的大小 */
+.toc__menu li a {
+    font-size: 1.4em; // 一级目录字体大小
   }
+  
+.toc__menu li ul > li a {
+    font-size: 1.7em; // 二级目录字体大小
+  }
+  
+.toc__menu li ul li ul > li a {
+    font-size: 2.2em; // 三级目录字体大小
+  }
+  
+
+
+

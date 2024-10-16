@@ -33,8 +33,22 @@ url                      : "https://gamegirl008.github.io" # the base hostname &
 words_per_minute         : 200
 enable_copy_code_button  : true
 
+# Plugins (previously gems:)
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
   - jekyll-include-cache
 
 # Site Author
@@ -61,7 +75,7 @@ defaults:
       author_profile: false
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
       show_date: true
       #sidebar:
@@ -81,13 +95,12 @@ defaults:
       type: docs
     values:
       layout: single
-      read_time: false
+      show_date: true
+      read_time: true
       author_profile: false
-      share: false
+      share: true
       comments: false
       toc_sticky: true
-      sidebar:
-        nav: "docs"
   # _recipes
   - scope:
       path: ""
