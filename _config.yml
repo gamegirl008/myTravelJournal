@@ -65,6 +65,13 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/gamegirl008"
 
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+
+
 defaults:
   # _posts
   - scope:
