@@ -19,13 +19,16 @@ search: false
   }
 
 .page__content h2 { /* 针对二级标题 */
+    font-size: 0.9em; /* 根据需要设置大小 */
+  }
+
+.page__content h3 { /* 针对三级标题 */
     font-size: 0.8em; /* 根据需要设置大小 */
   }
 
-.page__content h3 { /* 针对二级标题 */
-    font-size: 0.8em; /* 根据需要设置大小 */
+.page__content h4 { /* 针对三级标题 */
+    font-size: 0.75em; /* 根据需要设置大小 */
   }
-
 
 .sidebar {
     p,
@@ -48,6 +51,11 @@ search: false
     font-size: 2.2em; // 三级目录字体大小
   }
   
+.text-Coral {
+    color: Coral;
+    font-size: 1em;
+}
+
 
 
 
