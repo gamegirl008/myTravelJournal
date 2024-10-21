@@ -15,6 +15,23 @@ post1:
         url: /post1-0-干货篇/
       - title: "签证篇"
         url: /post1-1-签证篇/
+      - title: "工具篇"
+        url: /post1-2-工具篇/
+      - title: "物品清单"
+        url: /post1-3-物品清单/
+      - title: "交通篇"
+        url: /post1-4-交通篇/
+      - title: "景点预约篇"
+        url: /post1-5-景点预约篇/
+      - title: "住宿篇"
+        url: /post1-6-住宿篇/
+      - title: "预算篇"
+        url: /post1-7-预算篇/
+      - title: "常见问题篇"
+        url: /post1-8-常见问题篇/
+      - title: "景点体验篇"
+        url: /post1-9-景点体验篇/
+        
 
 # documentation links
 docs:

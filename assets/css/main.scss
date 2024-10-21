@@ -40,7 +40,7 @@ search: false
   }
 
 .toc__menu li a {
-    font-size: 1.4em; // 一级目录字体大小
+    font-size: 1.35em; // 一级目录字体大小
   }
   
 .toc__menu li ul > li a {
@@ -54,6 +54,20 @@ search: false
 .text-Coral {
     color: Coral;
     font-size: 1em;
+}
+
+.text-Red {
+  color: red;
+  font-size: 1em;
+  font-weight: bold;
+}
+
+th:first-child {
+  width: 20%; /* 第一列宽度 */
+}
+
+th:nth-child(2) {
+  width: 25%; /* 第一列宽度 */
 }
 
 
