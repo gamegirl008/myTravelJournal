@@ -3267,3 +3267,889 @@ Lagos的主城区不小，而且很热闹，有很多餐厅和小店，甚至连
 
 **景点体验：**  
 这条徒步路线完全是个偶遇，但没想到成为了整个辛特拉最难以忘怀的经历。从摩尔人城堡出来后，我们准备去雷加莱拉庄园，问了一个突突车价格，由于车道是单向的，需要绕一圈才能到，所以价格不便宜，于是决定走下山。根据google地图导航，走进了一条山路，没想到走的人还挺多，甚至有不少是和我们反方向爬上山的。后来中途看到路标才知道，原来这是一条徒步路线，有不少人是专门过来爬山到佩纳宫的。这条路线基本不难走，基本上都有台阶，两旁有很多植物，这种在陌生的地方探索的感觉其实不错，当中还看到了真正的攀岩。推荐有体力有时间的话可以完全不买公交车车票，整个一天都在辛特拉徒步。
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5380.JPG' | relative_url }}" alt="徒步步道1">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5381_1.JPG' | relative_url }}" alt="徒步步道2">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5382.JPG' | relative_url }}" alt="徒步步道3">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5384.JPG' | relative_url }}" alt="徒步步道4">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5387.JPG' | relative_url }}" alt="徒步步道5">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5391.JPG' | relative_url }}" alt="徒步步道6">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5392.JPG' | relative_url }}" alt="徒步步道7">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5394.JPG' | relative_url }}" alt="徒步步道8">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5396_1.JPG' | relative_url }}" alt="徒步步道9">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5401.JPG' | relative_url }}" alt="徒步步道10">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5402.JPG' | relative_url }}" alt="徒步步道11">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5415.JPG' | relative_url }}" alt="徒步步道12">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5418_1.JPG' | relative_url }}" alt="徒步步道13">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5419.JPG' | relative_url }}" alt="徒步步道14">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5420.JPG' | relative_url }}" alt="徒步步道15">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5425.JPG' | relative_url }}" alt="徒步步道16">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5427.JPG' | relative_url }}" alt="徒步步道17">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5428.JPG' | relative_url }}" alt="徒步步道18">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5431.JPG' | relative_url }}" alt="徒步步道19">
+</figure>
+
+### 4. 雷加莱拉庄园（Quinta de Regaleira）
+
+**景点推荐指数：**<span class="text-Coral"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></span>
+
+**游览时间：**<span class="text-Coral">1-2小时</span>
+
+**景点体验：**  
+由于徒步花了点时间，本来已经有点想放弃游玩雷加莱拉庄园，但是在看了城堡外面后，觉得太漂亮了，还是决定进去兜一圈。雷加莱拉庄园也可以当场网上买票，不需要提前预定。雷加莱拉庄园最著名的景点是九层古井，看攻略说，进门后先去九层古井。果然这个景点队伍很长，其实就是拍一张网上都有的照片，大概需要排队半小时。相比这个著名景点，我更喜欢这个城堡的外观，非常别致，有点哥特式，我们游览的那天是阴天，所以更有恐怖古堡的感觉。庄园其实很大，有些地方甚至看到了苏州园林的感觉，认真兜完也要花1-2个小时。这个景点还是推荐大家来看一下的。
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5436.JPG' | relative_url }}" alt="雷加莱拉庄园1">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5443.JPG' | relative_url }}" alt="雷加莱拉庄园2">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5449.JPG' | relative_url }}" alt="雷加莱拉庄园3">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5450_1.JPG' | relative_url }}" alt="雷加莱拉庄园4">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5463.JPG' | relative_url }}" alt="雷加莱拉庄园5">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5464_1.JPG' | relative_url }}" alt="雷加莱拉庄园6">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5473.JPG' | relative_url }}" alt="雷加莱拉庄园7">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5499.JPG' | relative_url }}" alt="雷加莱拉庄园8">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5503_1.JPG' | relative_url }}" alt="雷加莱拉庄园9">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5516_1.JPG' | relative_url }}" alt="雷加莱拉庄园10">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5532_1.JPG' | relative_url }}" alt="雷加莱拉庄园11">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5544.JPG' | relative_url }}" alt="雷加莱拉庄园12">
+</figure>
+
+## Day21：罗卡角
+
+**景点推荐指数：**<span class="text-Coral"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star"></i></span>
+
+**游览时间：**<span class="text-Coral">1-2小时</span>
+
+**景点体验：**  
+罗卡角被称为“世界的尽头”，是欧洲大陆的最西端。毫无疑问，这个最西端的名号很值得打卡。
+
+从辛特拉到罗卡角可以坐公交，但公交时间间隔比较长且不确定，我们还是选择了打车。没想到，这次打车的经历成为比游览罗卡角更值得回忆的记忆。辛特拉打车不容易，一开始在雷加莱拉庄园门口用bolt打车根本没有人接单，好不容易有人接单了，由于当中比较堵，直接取消了订单。后来我走了十分钟到公交车车站才打到车。
+
+这次打车非比寻常的经历在于司机大哥。司机大哥老家在巴西，但现在长期住在辛特拉小镇，对这边的路线非常熟悉。上车大哥先给了我们一个小玩笑，说去罗卡角的路程中有交通事故，可能要几个小时才能到，问我们去不去，我们坚定的说去后司机大哥才说刚刚是开玩笑的。可能为了拉生意，司机大哥在路途中一直说自己更喜欢亚洲人，不喜欢欧美的白人，然后提出了可以在罗卡角等我们游览完，载我们去卡斯凯什，中间不按照地图的最优路线走，而是沿着海岸线让我们看风景，在几个平台还可以放我们下来拍照，价格比bolt平台叫的便宜，直接一口价（记得是9欧）。大哥的提议很让人心动，但毕竟人生地不熟，还是需要有点防备心，用bolt叫车更加安全。于是决定跟大哥说没有现金，还是bolt叫车，他迅速接单就行了。bolt叫车会收取服务费，因此比大哥提出的一口价要贵个3欧。大哥同意了我们的提议，我们在叫车前确认好了双方的用户名。
+
+说回到罗卡角本身，罗卡角在山顶，旁边又是大西洋，天气变化多端。我们在辛特拉的时候已经是雾蒙蒙一片，到了罗卡角几乎什么都看不见，而且风超级超级大（见我照片的发型就知道了）。在罗卡角面向大海的悬崖边矗立着一个十字架石碑，上面刻有葡萄牙伟大诗人卡蒙斯的诗句：“Aqui...Onde a terra acaba e o mar começa.”（意思是：陆止于此，海始于斯。放眼望去，海天一色，望不到边际。）我在纪念碑前迅速拍了张头发飞起来的纪念照后，立马到旁边的服务中心买了张纪念到此一游的证书。作为证书党，之前就查好了这边有证书卖，虽然价格要11欧，但还是决定买了。证书有两种格式，在表格上填好自己的名字和当天的日期，就能当场拿到了。这里要提醒的是，证书很大，如果真想买这个证书，最好带一个A3大小的文件夹，这样证书不会被折坏。整个浏览罗卡角的过程不超过5分钟，我们很快回到司机大哥的车上，准前往卡斯凯什。
+
+后来在车上，大哥说罗卡角早上他来的时候还是晴天，没想到变化这么快。然后还给我们看了很多他在天气好的时候拍的罗卡角的照片。大哥说罗卡角可能天气最好的时候是暑假，但暑假其他地方又太热，所以一般旅游的人要碰到罗卡角的好天气要看运气。幸好我一直有whatsapp账号，和大哥加了好友后，他把罗卡角的美照传给了我。
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5560_1.JPG' | relative_url }}" alt="罗卡角1">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5569.JPG' | relative_url }}" alt="罗卡角2">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5570.JPG' | relative_url }}" alt="罗卡角3">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5572.JPG' | relative_url }}" alt="罗卡角4">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5584.JPG' | relative_url }}" alt="罗卡角5">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/微信图片_20240924234413.jpg' | relative_url }}" alt="罗卡角7">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/微信图片_20240924234420.jpg' | relative_url }}" alt="罗卡角8">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5689.JPG' | relative_url }}" alt="罗卡角6">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_8127.jpg' | relative_url }}" alt="罗卡角9">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_8125.jpg' | relative_url }}" alt="罗卡角10">
+</figure>
+
+## Day21：卡斯凯什
+
+**城市推荐指数：**<span class="text-Coral"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star"></i></span>
+
+**城市体验：**  
+卡斯凯什是一个海边度假城市，城市里可以看到各种度假酒店。整个城市并不大，从地狱之口走到火车站也不过是30分钟的步行。沿路步道是沿着海岸线的，很好走，海边大部分是礁石，你可以爬到礁石上近距离看海。靠近火车站有一个沙滩，还有一圈是吃饭的地方，我们在这里解决了晚餐。卡斯凯什真正的景点只有一个，就是地狱之口，这个景点非常值得去。相比罗卡角，我更喜欢卡斯凯什。个人建议，如果不想舟车劳顿，只去辛特拉就可以了，如果想多看看景点，可以打车到罗卡角再到卡斯凯什兜一圈，这两个地方参观的时间并不需要很久。从卡斯凯什回里斯本可以当场买火车票，比较方便。
+
+### 1. 罗卡角-卡斯凯什沿途
+
+**景点推荐指数：**<span class="text-Coral"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></span>
+
+**游览时间：**<span class="text-Coral">1小时</span>
+
+**景点体验：**  
+强烈推荐大家从罗卡角到卡斯凯什打车或者包车从海岸线走，沿途的风景太壮观了，我看到了旅途中最漂亮的海浪冲击海岸的画面。按照google地图导航，其实最近的路并不是沿着海岸线走，幸亏碰到了友好的司机大哥，不但告诉我们好看的点，还在可以停车的地方让我们停下来拍照。罗卡角山顶雾蒙蒙什么都看不见，但一从山上下来，天气就晴朗了。当中下来拍照的两次风也很大，但绝对值得！好心的司机大哥提醒我们不能太靠近悬崖，那边风太大，容易被吹走，而且要小心地上的石头，司机大哥说自己就在那里摔坏了膝盖，走下车我们才发现司机大哥其实有点跛脚。最后司机大哥把我们送到了地狱之口，离开时为了留个纪念，我提出了和司机大哥在他车前拍照的提议，大哥愉快地答应了。
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5592_1.JPG' | relative_url }}" alt="罗卡角-卡斯凯什沿途1">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5613.JPG' | relative_url }}" alt="罗卡角-卡斯凯什沿途2">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/微信图片_20240925135252.jpg' | relative_url }}" alt="罗卡角-卡斯凯什沿途3">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/微信图片_20240925135259.jpg' | relative_url }}" alt="罗卡角-卡斯凯什沿途4">
+</figure>
+
+### 2. 地狱之口（Boca do Inferno）
+
+**景点推荐指数：**<span class="text-Coral"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></span>
+
+**游览时间：**<span class="text-Coral">0.5-1小时</span>
+
+**景点体验：**  
+地狱之口是来卡斯凯什的重要原因，之所以叫地狱之口，是因为下面的礁石已经被大西洋的海浪吹成了一个口的形状。我们到达地狱之口的时候，天气很好，甚至还有些热，景点名不虚传，风景很好看，蓝天下的大西洋更蓝，海浪冲打着大块礁石，有种动态的美。司机大哥说卡斯凯什在下班高峰打车回里斯本会很堵，所以我们选择了早点坐火车回去，没有等到卡斯凯什的夕阳，据说在卡斯凯什看夕阳也很不错。
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5649_1.JPG' | relative_url }}" alt="地狱之口1">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5687.JPG' | relative_url }}" alt="地狱之口2">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5696.JPG' | relative_url }}" alt="地狱之口3">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5713.JPG' | relative_url }}" alt="地狱之口4">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5717.JPG' | relative_url }}" alt="地狱之口5">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5718.JPG' | relative_url }}" alt="地狱之口6">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/微信图片_20240925140732.jpg' | relative_url }}" alt="地狱之口7">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5721.JPG' | relative_url }}" alt="地狱之口8">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5722.JPG' | relative_url }}" alt="地狱之口9">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5723.JPG' | relative_url }}" alt="地狱之口10">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5728_1.JPG' | relative_url }}" alt="地狱之口11">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5735_1.JPG' | relative_url }}" alt="地狱之口12">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5743.JPG' | relative_url }}" alt="地狱之口13">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5746.JPG' | relative_url }}" alt="地狱之口14">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5750.JPG' | relative_url }}" alt="地狱之口15">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5751.JPG' | relative_url }}" alt="地狱之口16">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5762.JPG' | relative_url }}" alt="地狱之口17">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5771.JPG' | relative_url }}" alt="地狱之口18">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5780.JPG' | relative_url }}" alt="地狱之口19">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5782.JPG' | relative_url }}" alt="地狱之口20">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/辛特拉/IMG_5783_1.JPG' | relative_url }}" alt="地狱之口21">
+</figure>
+
+## Day22：里斯本
+
+### 1. 圣胡斯塔升降机（Elevador de Santa Justa）
+
+**景点推荐指数：**<span class="text-Coral"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star"></i></span>
+
+**游览时间：**<span class="text-Coral">0.5-1小时</span>
+
+**景点体验：**  
+位于老城区中心位置，看到很多人在排队的电梯就是了，整个体验其实就是坐电梯上去看里斯本的俯瞰风景。我们一开始排了一会队，然后我在排队的过程中在小红书上刷到了这个景点的一个大bug，就是可以从卡尔莫修道院旁边的楼梯上去，直接通向升降机到达的平台，是完全免费的。我一个人去探路后，成功找到了这个入口，怒省9欧。如果排队的话感觉起码半小时起步，坐升降机也就1分钟的时间。平台上的风景是不错，但是和之后在圣乔治城堡上大平台看到的里斯本全景相比还是不能比的。所以强烈建议大家走bug通道（具体路线小红书上有很多，找到修道院旁边卖鳕鱼饼的店上台阶就行了）。
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_4625_1.JPG' | relative_url }}" alt="圣胡斯塔升降机1">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_5810_1.JPG' | relative_url }}" alt="圣胡斯塔升降机2">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_5821.JPG' | relative_url }}" alt="圣胡斯塔升降机3">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_5823_1.JPG' | relative_url }}" alt="圣胡斯塔升降机4">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_5828_1.JPG' | relative_url }}" alt="圣胡斯塔升降机5">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_5862_1.JPG' | relative_url }}" alt="圣胡斯塔升降机6">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_5865.JPG' | relative_url }}" alt="圣胡斯塔升降机7">
+</figure>
+
+### 2. 28路电车
+
+**景点推荐指数：**<span class="text-Coral"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i></span>
+
+**游览时间：**<span class="text-Coral">0.5-1.5小时</span>
+
+**景点体验：**  
+里斯本的28路电车很有名，黄色的古老车厢配上古老的街道很出片，然而我觉得也就只剩下出片了。本来只想外面拍拍照就算了，但同伴特别想坐，而且不像走上坡了，我们就决定在起点站Martim Moniz坐到圣乔治城堡附近。起点站排队的人很多，间隔大概10-30分钟，每辆车最多感觉也只能坐个20多个人了。车票可以直接用里斯本的黄色地铁卡，充值一次地铁票就可以了。我们大概排了1个小时的队伍才上车，中途其他车站也能上车，虽然不需要排队，但可能就没座位了，看不到窗外的风景。车厢很小，车程也很短，几乎一两分钟就是一站，居然还碰到有人查票。车内就和坐公交车一个感觉，不如车外看着漂亮。所以建议没有执念的话，外面拍拍就好。我个人倒是更想体验里斯本的水上巴士。
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_4596.JPG' | relative_url }}" alt="28路电车1">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_5888.JPG' | relative_url }}" alt="28路电车2">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_5889.JPG' | relative_url }}" alt="28路电车3">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_5892_1.JPG' | relative_url }}" alt="28路电车4">
+</figure>
+
+### 3. 圣乔治城堡 （Castelo de São Jorge）
+
+**景点推荐指数：**<span class="text-Coral"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></span>
+
+**游览时间：**<span class="text-Coral">1-2小时</span>
+
+**景点体验：**  
+圣乔治城堡是我觉得里斯本最值得买门票进去的景点。圣乔治城堡位于里斯本的最高点，一直是里斯本的军事要塞。由于曾经被摩尔人占领国，圣乔治城堡的城墙也很有摩尔人的特色。还没进城堡就碰到了好玩的市区，圣乔治城堡的售票厅居然罢工。本来想直接买票进去也花不了多长时间，到门口的时候发现队伍很长，我到队伍前头发现有个罢工的牌子，门口检票人员说可能要罢工到下午四点。但我发现还是有人进入了园区，一问才知道罢工的只是售票厅的工作人员，网上购票是不影响的，于是马上掏出手机网上订票。比较好奇的是那些排着队伍的人是不会网上订票么。。。
+
+进入园区就是令人震撼的大平台，你能看到毫无遮挡的整个里斯本，我觉得比升降机上面看到的好看许多，比圣卢西亚观景平台的视野也更好。平台还是挺长的，可以逗留一会。园区内另一个主要的景点就是摩尔人城墙了，城墙更高，可以从各个角度俯瞰里斯本。园区内还能看到孔雀。总体来说强烈推荐买票进圣乔治城堡看看。
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/微信图片_20240925155620.jpg' | relative_url }}" alt="圣乔治城堡0">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_5904.JPG' | relative_url }}" alt="圣乔治城堡1">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_5905_1.JPG' | relative_url }}" alt="圣乔治城堡2">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_5911.JPG' | relative_url }}" alt="圣乔治城堡3">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_5917.JPG' | relative_url }}" alt="圣乔治城堡4">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_5950.JPG' | relative_url }}" alt="圣乔治城堡5">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_6004.JPG' | relative_url }}" alt="圣乔治城堡6">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_6015.JPG' | relative_url }}" alt="圣乔治城堡7">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_6031.JPG' | relative_url }}" alt="圣乔治城堡8">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_6053.JPG' | relative_url }}" alt="圣乔治城堡9">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_6077_1.JPG' | relative_url }}" alt="圣乔治城堡10">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_6089.JPG' | relative_url }}" alt="圣乔治城堡11">
+</figure>
+
+### 4. 阿尔法玛区法朵体验
+
+**景点推荐指数：**<span class="text-Coral"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></span>
+
+**游览时间：**<span class="text-Coral">2-3小时</span>
+
+**景点体验：**  
+法朵是葡萄牙的国粹，就像弗拉明戈之于西班牙，京剧之于我们。法朵的葡文名为Fado，它的另一个含义是“命运”，因此法朵也被称为“命运之歌”。这一传统音乐起源于十九世纪里斯本阿尔法玛地区，曲风细腻哀婉，洋溢着悲伤的气氛。我最早听到Fado是来自于电影《伊莎贝拉》的片尾曲：Mariza演唱的O Gente Da Minha Terra。一听到就被吸引了，简直就是提升了电影一个档次。所以在葡萄牙欣赏一场法朵演唱是我这次旅行最想体验的行程之一。
+
+我很早就在airbnb上预订了一个家庭法朵演奏会，这个演奏会还能听到对法朵的历史介绍。可惜的是前一天晚上，活动主办人说由于人数不够，他这个活动现在很难经营下去，活动不得不取消了。
+
+我知道里斯本的阿尔法玛区还有很多不错的法朵餐厅，于是在小红书上找了一家评价不错的，在google地图上预订了晚餐。这家餐厅的名字叫Fama d'Alfama，应该是家比较网红的餐厅，facebook上有他们的主页，还会介绍每天出场表演的歌手。法朵表演本身并不需要付钱。但是刚坐下服务员就提醒说因为表演是免费的，所以有最低消费，一个人差不多是300人民币，餐前包和矿泉水都需要额外收费，整体菜单价格也会比外面的价格要贵，点个主食和餐前菜差不多就到了低消。法朵的表演是有时间段的，差不多一共四场，穿插在吃饭中间，每次表演大概半小时不到，从晚上8点半开始表演到12点左右结束。虽然吃饭价格整体偏贵，但口味很不错，我特别喜欢他们的芝士蛋糕（具体美食部分我会单独在美食篇里介绍），再加上表演很精彩，时长也够，所以整体来说价格是合理的。总的来说，如果你喜欢音乐，千万不能错过阿尔法玛的法朵餐厅！
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_6209.PNG' | relative_url }}" alt="法朵体验1">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_6157_1.JPG' | relative_url }}" alt="法朵体验2">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_6158.JPG' | relative_url }}" alt="法朵体验3">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_6161.JPG' | relative_url }}" alt="法朵体验4">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_6166.JPG' | relative_url }}" alt="法朵体验5">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/里斯本/IMG_6176.PNG' | relative_url }}" alt="法朵体验6">
+</figure>
+
+## Day23：波尔图
+
+**城市推荐指数：**<span class="text-Coral"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star"></i></span>
+
+**城市体验：**  
+波尔图是葡萄牙的第二大城市，是除了里斯本之外必到的葡萄牙城市。做攻略的时候经常看到喜欢波尔图超过里斯本的有很多，之前在马拉加毕加索博物馆门口排队的时候，前面的德国妹子也提到了波尔图很漂亮，所以我对波尔图更有期待。然而期待越高失望越大，也是不巧，我们去波尔图的时候，正好波尔图整个老城区都在搞市政建设，很多景点附近都在施工，顿时观感变差了。整个城市也显得比较老旧。不过直到走到了杜罗河岸边，看了波尔图的日落后，才感受到了整个城市的美。
+
+波尔图还有个特色是有很多18世纪青花瓷里面的建筑，可以说是青花瓷之城。我发现不少外国游客穿着青花瓷的连衣裙游览整个城市，算是另一道风景线。波尔图的景点主要在老城区和杜罗河两岸，全程都可以靠步行。不过和里斯本一样，波尔图也是个爬坡之城，感觉出门半小时已经上上下下爬了30层楼的样子。我们在波尔图的游览时间大概才1天半，所以基本没有买票参观一个景点，主要还是在杜罗河两岸附近。建议大家还是在不施工的时候来波尔图，可以待2-3天的时间，慢慢体会这个城市的美。
+
+### 1. 莱罗书店（Livraria Lello e Irmão）
+
+**景点推荐指数：**<span class="text-Coral"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star"></i></span>
+
+**游览时间：**<span class="text-Coral">1小时</span>
+
+**景点体验：**  
+莱罗书店被称为全球最美书店之一，是需要买8欧门票才能进入的书店，这个8欧可以在买书的时候抵用。本来因为要收门票，所以有点犹豫要不要进去，最后还是决定进去看看。门口虽然有人排队，但并不需要提早预约，到门口再买下个时段的票，差不多排队一会就进去了。书店里面的确比较复古漂亮，里面的主要有葡萄牙语、英语、西班牙语和法语四种语言的书籍，书籍的封面似乎是莱罗书店特供，大部分都是畅销经典书籍。这次去的时候一楼是小王子特展，二楼是一个葡萄牙诺贝尔文学奖获得者若泽·萨拉马戈的特展。书店的人一直很多，想要在经典的楼梯这里拍照，需要等一会。我最后买了一本西班牙语的小王子作为自学西班牙语的纪念。
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6295_1.JPG' | relative_url }}" alt="莱罗书店1">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6302.JPG' | relative_url }}" alt="莱罗书店2">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6304.JPG' | relative_url }}" alt="莱罗书店3">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6315.JPG' | relative_url }}" alt="莱罗书店4">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6317.JPG' | relative_url }}" alt="莱罗书店5">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6323.JPG' | relative_url }}" alt="莱罗书店6">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6325.JPG' | relative_url }}" alt="莱罗书店7">
+</figure>
+
+### 2. Miradouro da Vitória观景平台
+
+**景点推荐指数：**<span class="text-Coral"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star"></i></span>
+
+**游览时间：**<span class="text-Coral">0.5小时</span>
+
+**景点体验：**  
+以杜罗河为主方向，跟着google地图的小相机图标走到了这个平台。到达这个平台需要走很多台阶，又是个体力活！平台视野还不错，能看到波尔图主教堂、唐路易一世大桥和杜罗河两岸的远景，不过平台周围比较普通甚至说有点脏乱，没有什么商店或者餐厅。
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6336.JPG' | relative_url }}" alt="Miradouro da Vitória观景平台1">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6352.JPG' | relative_url }}" alt="Miradouro da Vitória观景平台2">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/微信图片_20240926164535.jpg' | relative_url }}" alt="Miradouro da Vitória观景平台3">
+</figure>
+
+### 3. 牧师塔及教堂（Torre e Igreja dos Clérigos）
+
+**景点推荐指数：**<span class="text-Coral"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star"></i></span>
+
+**游览时间：**<span class="text-Coral">0.1小时</span>
+
+**景点体验：**  
+波尔图的重要地标，据说登到顶端可以俯瞰整个波尔图的美景，不过由于之前的旅程登了太多次顶，体力已经达到了极限，我们也就在外面拍了一会照片。牧师塔周围有很多餐厅，旁边还有一个大公园。
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6251.JPG' | relative_url }}" alt="牧师塔及教堂1">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6263.JPG' | relative_url }}" alt="牧师塔及教堂2">
+</figure>
+
+### 4. 灵魂教堂（Chapel of Souls）
+
+**景点推荐指数：**<span class="text-Coral"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></span>
+
+**游览时间：**<span class="text-Coral">0.5小时</span>
+
+**景点体验：**  
+在波尔图，就算你没有导航，也绝对不会错过灵魂教堂。灵魂教堂保留了波尔图18世纪教堂的风格，整个外立面都是青花瓷的装饰，从街道很远就能看到教堂大面积的青花瓷。波尔图必打卡的景点。
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6231.JPG' | relative_url }}" alt="灵魂教堂1">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6570_1.JPG' | relative_url }}" alt="灵魂教堂2">
+</figure>
+
+### 5. 卡尔莫教堂（Igreja do Carmo）
+
+**景点推荐指数：**<span class="text-Coral"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></span>
+
+**游览时间：**<span class="text-Coral">0.5小时</span>
+
+**景点体验：**  
+又是一个外立面为青花瓷的18世纪大教堂，相比灵魂教堂，卡尔莫教堂的青花瓷颜色浅一些，单个立面也大一些。同样我们也是在教堂外拍了一会，并没有进教堂。
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6277.JPG' | relative_url }}" alt="卡尔莫教堂1">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6279_1.JPG' | relative_url }}" alt="卡尔莫教堂2">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6282.JPG' | relative_url }}" alt="卡尔莫教堂3">
+</figure>
+
+### 6. 唐路易一世大桥下层（Ponte Dom Luís I）
+
+**景点推荐指数：**<span class="text-Coral"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></span>
+
+**游览时间：**<span class="text-Coral">0.5小时</span>
+
+**景点体验：**  
+这座钢铁拱桥是由著名设计师埃菲尔的徒弟Théophile Seyrig设计建造的，所以看着和埃菲尔铁塔有点像，横跨杜罗河，连接老城区和加亚新城。铁桥分上下两层，上层用于地铁穿行，下层留给行人步行和汽车交通。第一个波尔图的下午，为了游览杜罗河两岸，我们穿越了唐路易一世大桥的下层。从桥上看到的杜罗河风景和杜罗河两岸看完全不同，建议大家一定要在桥上走走。
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6406.JPG' | relative_url }}" alt="唐路易一世大桥下层1">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6408.JPG' | relative_url }}" alt="唐路易一世大桥下层2">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6412.JPG' | relative_url }}" alt="唐路易一世大桥下层3">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6417.JPG' | relative_url }}" alt="唐路易一世大桥下层4">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6418.JPG' | relative_url }}" alt="唐路易一世大桥下层5">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6422.JPG' | relative_url }}" alt="唐路易一世大桥下层6">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6428.JPG' | relative_url }}" alt="唐路易一世大桥下层7">
+</figure>
+
+### 7. 杜罗河两岸
+
+**景点推荐指数：**<span class="text-Coral"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></span>
+
+**游览时间：**<span class="text-Coral">3-4小时</span>
+
+**景点体验：**  
+杜罗河两岸是整个波尔图精华所在。一边靠近老城区，有许多餐厅和街头卖艺，相对比较热闹。穿过唐路易一世大桥，则来到新城的一边，可以看到整个老城区的风貌，是看落日的好地方，还能坐缆车。在波尔图的第一天我就沿着老城区的一边走到了新城区的一边，逛了著名的沙丁鱼罐头店和鳕鱼饼店，吃了波尔图著名的波特甜酒和蛋挞，然后找了家岸边吃牛肚的店，边看日落边吃晚餐。第二天中午，我在新城区一边的大草坪上边听街头艺人表演边晒太阳，看着杜罗河上的船只，感叹身处老城区中还觉得很破旧的城市，换个视角看竟然如此美丽。
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6371.JPG' | relative_url }}" alt="杜罗河两岸1">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6373.JPG' | relative_url }}" alt="杜罗河两岸2">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6374.JPG' | relative_url }}" alt="杜罗河两岸3">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6448.JPG' | relative_url }}" alt="杜罗河两岸4">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6450_1.JPG' | relative_url }}" alt="杜罗河两岸5">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6451.JPG' | relative_url }}" alt="杜罗河两岸6">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6456.JPG' | relative_url }}" alt="杜罗河两岸7">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6457.JPG' | relative_url }}" alt="杜罗河两岸8">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6469_1.JPG' | relative_url }}" alt="杜罗河两岸9">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6487.JPG' | relative_url }}" alt="杜罗河两岸10">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6489.JPG' | relative_url }}" alt="杜罗河两岸11">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6510_1.JPG' | relative_url }}" alt="杜罗河两岸12">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6511.JPG' | relative_url }}" alt="杜罗河两岸13">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6526.JPG' | relative_url }}" alt="杜罗河两岸14">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6527.JPG' | relative_url }}" alt="杜罗河两岸15">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6529.JPG' | relative_url }}" alt="杜罗河两岸16">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6535.JPG' | relative_url }}" alt="杜罗河两岸17">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6549.JPG' | relative_url }}" alt="杜罗河两岸18">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6556.JPG' | relative_url }}" alt="杜罗河两岸19">
+</figure>
+
+## Day24：波尔图
+
+### 1. 帝国麦当劳（McDonald's Imperial）
+
+**景点推荐指数：**<span class="text-Coral"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i></span>
+
+**游览时间：**<span class="text-Coral">0.1小时</span>
+
+**景点体验：**  
+这个麦当劳位于一栋20世纪30年代的历史建筑中的麦当劳，曾经是帝国咖啡馆。我们也就路过兜了一圈，个人觉得没有什么特别的，就是一个咖啡馆装潢的快餐店，纯属打卡地点。
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6576.JPG' | relative_url }}" alt="帝国麦当劳1">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6577.JPG' | relative_url }}" alt="帝国麦当劳2">
+</figure>
+
+### 2. 波尔图主教堂 Sé do Porto
+
+**景点推荐指数：**<span class="text-Coral"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star"></i></span>
+
+**游览时间：**<span class="text-Coral">1小时</span>
+
+**景点体验：**  
+波尔图最古老的教堂，建造于12世纪，从很远处就能看到。主教堂也在修缮，所以我们在教堂门口的大平台逗留了一会，从平台上也能望见远处的杜罗河。
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6588.JPG' | relative_url }}" alt="波尔图主教堂1">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6590_1.JPG' | relative_url }}" alt="波尔图主教堂2">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6599.JPG' | relative_url }}" alt="波尔图主教堂3">
+</figure>
+
+### 3. 唐路易一世大桥上层（Ponte Dom Luís I）
+
+**景点推荐指数：**<span class="text-Coral"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></span>
+
+**游览时间：**<span class="text-Coral">1小时</span>
+
+**景点体验：**  
+唐路易一世大桥的上层绝对不能错过。从波尔图主教堂门口大平台下楼后，经过上上下下一番折腾，我们来到了桥的上层。上层中间是轻轨轨道，两旁可以走行人。从上层看整个杜罗河视角更好。穿过桥的上层可以来到一个大草坪公园，许多人都躺在台阶上晒太阳看街头艺人表演。
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6625_1.JPG' | relative_url }}" alt="唐路易一世大桥上层1">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6601.JPG' | relative_url }}" alt="唐路易一世大桥上层2">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6606_1.JPG' | relative_url }}" alt="唐路易一世大桥上层3">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6613.JPG' | relative_url }}" alt="唐路易一世大桥上层4">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6617.JPG' | relative_url }}" alt="唐路易一世大桥上层5">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6624.JPG' | relative_url }}" alt="唐路易一世大桥上层6">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6631.JPG' | relative_url }}" alt="唐路易一世大桥上层7">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6639.JPG' | relative_url }}" alt="唐路易一世大桥上层8">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6653.JPG' | relative_url }}" alt="唐路易一世大桥上层9">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6662.JPG' | relative_url }}" alt="唐路易一世大桥上层10">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6674_1.JPG' | relative_url }}" alt="唐路易一世大桥上层11">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6682.JPG' | relative_url }}" alt="唐路易一世大桥上层12">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6698.JPG' | relative_url }}" alt="唐路易一世大桥上层13">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6703.JPG' | relative_url }}" alt="唐路易一世大桥上层14">
+</figure>
+
+### 4. 比拉尔山修道院及观景台（Mosteiro e Miradouro da Serra do Pilar）
+
+**景点推荐指数：**<span class="text-Coral"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></span>
+
+**游览时间：**<span class="text-Coral">1小时</span>
+
+**景点体验：**  
+比拉尔山修道院的观景台算是波尔图看杜罗河的至高点了。唐路易一世大桥的上层穿过就马上能看到一个位于高点的白色建筑物，往上走一大段斜坡，就到了观景平台。平台很大，视野非常广阔，强烈推荐还是废腿上来看一看。修道院内部我们还是没有进去。
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6725.JPG' | relative_url }}" alt="比拉尔山修道院及观景台1">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6730.JPG' | relative_url }}" alt="比拉尔山修道院及观景台2">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6731.JPG' | relative_url }}" alt="比拉尔山修道院及观景台3">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6747.JPG' | relative_url }}" alt="比拉尔山修道院及观景台4">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6748.JPG' | relative_url }}" alt="比拉尔山修道院及观景台5">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6761.JPG' | relative_url }}" alt="比拉尔山修道院及观景台6">
+</figure>
+
+### 5. 圣本托火车站（Estação de São Bento）
+
+**景点推荐指数：**<span class="text-Coral"><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i></span>
+
+**游览时间：**<span class="text-Coral">0.5小时</span>
+
+**景点体验：**  
+圣本托火车站被称为“世界最美火车站之一”。由于外面都在维修，差点错过了这个景点。火车站的重点在于内部的装潢，充满了法国气息，内部墙壁有大面积的青花瓷组成。火车站内不停有旅行团进来，导游会仔细讲解青花瓷上的画。建议大家逛老城的时候还是顺路进来看一下，的确是非常精美。
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6820.JPG' | relative_url }}" alt="圣本托火车站1">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6821_1.JPG' | relative_url }}" alt="圣本托火车站2">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6822.JPG' | relative_url }}" alt="圣本托火车站3">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6824.JPG' | relative_url }}" alt="圣本托火车站4">
+</figure>
+
+<figure>
+  <img src="{{ '/assets/images/post 1/9/波尔图/IMG_6826.JPG' | relative_url }}" alt="圣本托火车站5">
+</figure>
