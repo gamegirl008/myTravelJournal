@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "我的文章"
-    url: /quick-start-guide/
-  - title: "关于我"
-    url: /about/
+  - title: "Home"
+    url: /
 
 # post1"一个J人的2024西葡24日行超详细攻略"的nav
 post1:
@@ -12,27 +10,31 @@ post1:
       - title: "前言"
         url: /一个J人的2024西葡24日行超详细攻略/
       - title: "干货篇"
-        url: /post1-0-干货篇/
+        url: /post1-00-干货篇/
       - title: "签证篇"
-        url: /post1-1-签证篇/
+        url: /post1-01-签证篇/
       - title: "工具篇"
-        url: /post1-2-工具篇/
+        url: /post1-02-工具篇/
       - title: "物品清单"
-        url: /post1-3-物品清单/
+        url: /post1-03-物品清单/
       - title: "交通篇"
-        url: /post1-4-交通篇/
+        url: /post1-04-交通篇/
       - title: "景点预约篇"
-        url: /post1-5-景点预约篇/
+        url: /post1-05-景点预约篇/
       - title: "住宿篇"
-        url: /post1-6-住宿篇/
+        url: /post1-06-住宿篇/
       - title: "预算篇"
-        url: /post1-7-预算篇/
+        url: /post1-07-预算篇/
       - title: "常见问题篇"
-        url: /post1-8-常见问题篇/
+        url: /post1-08-常见问题篇/
       - title: "景点体验篇"
-        url: /post1-9-景点体验篇/
+        url: /post1-09-景点体验篇/
       - title: "美食篇"
         url: /post1-10-美食篇/
+      - title: "纪念品篇"
+        url: /post1-11-纪念品篇/
+      - title: "未来篇"
+        url: /post1-12-未来篇/
         
 
 # documentation links

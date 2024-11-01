@@ -32,6 +32,10 @@ baseurl                  : "/myTravelJournal" # the subpath of your site, e.g. /
 url                      : "https://gamegirl008.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 words_per_minute         : 200
 enable_copy_code_button  : true
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+  hide                   : true
+search                   : true
 
 # Plugins (previously gems:)
 plugins:
@@ -55,7 +59,7 @@ whitelist:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/gamegirl008.jpg"
-  bio              : "一个热爱生活的人，爱躺沙发，爱看电视，爱唱歌，爱旅游，爱下厨，爱一切值得爱的！"
+  bio              : "一个热爱生活的理想主义者。爱躺沙发，爱看电视，爱唱歌，爱旅游，爱下厨，爱一切值得爱的！"
   location         : "Shanghai, China"
   links:
     - label: "gamegirl008@outlook.com"
@@ -70,8 +74,7 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
-
-
+    
 defaults:
   # _posts
   - scope:
@@ -80,8 +83,8 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: true
-      comments: true
+      read_time: false
+      comments: false
       share: false
       related: true
       show_date: true
@@ -103,11 +106,10 @@ defaults:
     values:
       layout: single
       show_date: true
-      read_time: true
+      read_time: false
       author_profile: false
-      share: true
+      share: false
       comments: false
-      toc_sticky: true
   # _recipes
   - scope:
       path: ""
@@ -115,8 +117,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _pets
   - scope:
       path: ""
@@ -124,7 +126,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _portfolio
   - scope:
@@ -133,7 +135,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: true
+      share: false
 
 # Reading Files
 include:
